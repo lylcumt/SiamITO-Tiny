@@ -15,6 +15,10 @@
 | **Python**       | 3.7 (Anaconda Environment)   |
 | **PyTorch/CUDA** | 1.8.0 + CUDA 11.1             |
 
+## 📦 Dataset
+
+The dataset used for training and evaluation can be obtained from <!-- [this link](https://example.com).  -->
+
 ## 📁 Project Structure
 We organize our project as follows:
 
