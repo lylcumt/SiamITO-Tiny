@@ -8,7 +8,7 @@
 
 ## 🛠️ Training Environment  
 | Component             | Specification               |
-|------------------|-------------------------------|
+|:----------------:|:----------------------------:|
 | **GPU**          | NVIDIA RTX 3080 (10GB VRAM)   |
 | **CPU**          | Intel i9-11900K @ 3.5GHz      |
 | **OS**      | Ubuntu 18.04 LTS              |
