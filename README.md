@@ -4,7 +4,7 @@
 > *(Paper Title)*
 
 ## 🧠 Network Architecture
-
+![Network Architecture](architecture.jpg)
 
 ## 🛠️ Training Environment  
 | Component             | Specification               |
