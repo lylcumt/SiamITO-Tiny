@@ -1,6 +1,6 @@
 # SiamlTo-Tiny
 
-## 📄 **Edge Real-Time Tracking for Infrared Tiny Objects**
+## 📄 **Edge real-time tracking and FPGA-based hardware implementation for infrared tiny object**
 > *(Paper Title)*
 
 ## 🧠 Network Architecture
@@ -14,3 +14,10 @@
 | **OS**      | Ubuntu 18.04 LTS              |
 | **Python**       | 3.7 (Anaconda Environment)   |
 | **PyTorch/CUDA** | 1.8.0 + CUDA 11.1             |
+
+## 📁 Project Structure
+```bash
+├── SiamITO-Tiny/           # Core tracking code (SiamlTo-Tiny implementation)
+├── score=0.9206/          # Experimental results and evaluation metrics
+├── assets/         # (Optional) figures such as network diagrams
+├── README.md       # Project description
