@@ -16,8 +16,8 @@
 | **PyTorch/CUDA** | 1.8.0 + CUDA 11.1             |
 
 ## 📁 Project Structure
-```bash
-├── SiamITO-Tiny/           # Core tracking code (SiamlTo-Tiny implementation)
-├── score=0.9206/          # Experimental results and evaluation metrics
-├── assets/         # (Optional) figures such as network diagrams
-├── README.md       # Project description
+We organize our project as follows:
+
+- [`SiamITO-Tiny`](./SiamITO-Tiny): Contains the core implementation of **SiamlTo-Tiny**, including model architecture, training scripts, and tracking logic.
+- [`score=0.9206`](./score=0.9206): Stores experimental results, performance metrics, and evaluation outputs.
+
