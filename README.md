@@ -22,6 +22,6 @@ The dataset used for training and evaluation can be obtained from <!-- [this lin
 ## 📁 Project Structure
 We organize our project as follows:
 
-- [`SiamITO-Tiny`](./SiamITO-Tiny): Contains the core implementation of **SiamlTo-Tiny**, including model architecture, training scripts, and tracking logic.
+- [`SiamITO-Tiny`](./SiamITO-Tiny): Contains the core implementation of **SiamlTo-Tiny**, including model architecture, training scripts.
 - [`score=0.9206`](./score=0.9206): Stores experimental results, performance metrics, and evaluation outputs.
 
